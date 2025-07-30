@@ -1,5 +1,6 @@
 
 ## 📌 Behind Zomato’s 10-Minute Food Delivery Guarantee
+![1_mQYkkD4mDh06rTS23KY_Yw](https://github.com/user-attachments/assets/38ddd3eb-07c0-43e3-b48b-4c4601906d91)
 
 ## 🔄 What is a Distributed Transaction? (2 Phase Commit Protocol)
 A distributed transaction spans multiple networked systems (or services) that must all succeed or fail together — preserving ACID properties.
